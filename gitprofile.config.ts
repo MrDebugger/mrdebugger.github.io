@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['mrdebugger/bs2json', 'mrdebugger/jsoup', 'mrdebugger/nested_inside', 'mrdebugger/alienx', 'mrdebugger/messenger'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['mrdebugger/deproto', 'mrdebugger/bs2json', 'mrdebugger/jsoup', 'mrdebugger/nested_inside', 'mrdebugger/alienx', 'mrdebugger/messenger'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -37,7 +37,7 @@ const CONFIG = {
   },
   seo: {
     title: 'Ijaz Ur Rahim',
-    description: 'A passionate Programmer and Security Researcher 🔒.',
+    description: 'Programmer and Cybersecurity Researcher with proven expertise in Python, Node.js, and DevOps (AWS, Docker). Adept at tackling complex issues and pioneering solutions where answers don’t yet exist. Skilled in VAPT, reverse engineering, and automation, delivering secure, scalable results across diverse industries. Recognized for client-focused achievements and Top Rated status on Upwork, as well as excellence at leading tech companies.',
     imageURL: 'https://ijazurrahim.com/images/profile.jpg',
   },
   social: {
@@ -64,7 +64,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      '', // Empty fileUrl will hide the `Download Resume` button.
+      'https://ijazurrahim.com/Ijaz-Ur-Rahim.Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
